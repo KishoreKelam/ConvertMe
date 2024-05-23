@@ -6,17 +6,17 @@
 **✅WebAssembly**
 **✅FFMEG**
 
-![HomePage](https://imgur.com/CWv7yNF)
+![HomePage](https://imgur.com/CWv7yNF.png)
 
-![Upload] (https://imgur.com/dWaGBa1)
+![Upload] (https://imgur.com/dWaGBa1.png)
 
-![Convert page](https://imgur.com/EdsKGUT)
+![Convert page](https://imgur.com/EdsKGUT.png)
 
-![Convert options](https://imgur.com/SFelype)
+![Convert options](https://imgur.com/SFelype.png)
 
-![DownloadOption] (https://imgur.com/d8qPKGO)
+![DownloadOption] (https://imgur.com/d8qPKGO.png)
 
-![DarkMode] (https://imgur.com/eZJbg64)
+![DarkMode] (https://imgur.com/eZJbg64.png)
 
 ![HomePage](https://i.imgur.com/SCTf3Ce.png)
 
